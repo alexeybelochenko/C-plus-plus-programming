@@ -1,7 +1,7 @@
 Выберите из списка объявления, которые **не** стоит помещать в заголовочные файлы
 
--- void foo() { std::cout << "Hello, World!\n"; }
+* void foo() { std::cout << "Hello, World!\n"; }
 
--- int a;
+* int a;
 
--- void bar() { foo(); }
+* void bar() { foo(); }
